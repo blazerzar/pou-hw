@@ -11,3 +11,5 @@ in Ljubljana.
   - [Exercise 2.3](week_1/2_3.md)
 - Week 2: Borel sets
   - [Exercise 2.5](week_2/2_5.md)
+- Week 3: Lebesgue measure
+  - [Exercise 2.8d](week_3/2_8.ipynb)

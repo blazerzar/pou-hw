@@ -13,3 +13,7 @@ in Ljubljana.
   - [Exercise 2.5](week_2/2_5.md)
 - Week 3: Lebesgue measure
   - [Exercise 2.8d](week_3/2_8.ipynb)
+- Week 4: Random variables
+  - [Exercise 4.2a](week_4/4_2a.ipynb) [b](week_4/4_2b.md)
+  - [Exercise 4.4abc](week_4/4_4abc.md) [d](week_4/4_4d.ipynb)
+  - [Exercise 1.14d](week_4/1_14d.ipynb)

@@ -17,3 +17,8 @@ in Ljubljana.
   - [Exercise 4.2a](week_4/4_2a.ipynb) [b](week_4/4_2b.md)
   - [Exercise 4.4abc](week_4/4_4abc.md) [d](week_4/4_4d.ipynb)
   - [Exercise 1.14d](week_4/1_14d.ipynb)
+- Week 6: Expected value
+  - [Exercise 7.6](week_6/7_6.md)
+  - [Exercise 7.7](week_6/7_7.md)
+  - [Exercise 7.9c](week_6/7_9c.md) [d](week_6/7_9d.ipynb)
+  - [Exercise 7.12a](week_6/7_12a.ipynb) [b](week_6/7_12b.md)

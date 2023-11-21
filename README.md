@@ -22,3 +22,9 @@ in Ljubljana.
   - [Exercise 7.7](week_6/7_7.md)
   - [Exercise 7.9c](week_6/7_9c.md) [d](week_6/7_9d.ipynb)
   - [Exercise 7.12a](week_6/7_12a.ipynb) [b](week_6/7_12b.md)
+- Week 7: Multiple random variables
+  - [Exercise 3.1](week_7/3_1.md)
+  - [Exercise 4.7](week_7/4_7_ab.md) [c](week_7/4_7c.ipynb)
+  - [Exercise 5.1](week_7/5_1.ipynb)
+  - [Exercise 5.3def](week_7/5_3def.ipynb)
+  - [Exercise 5.6](week_7/5_6.md)

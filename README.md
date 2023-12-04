@@ -28,3 +28,7 @@ in Ljubljana.
   - [Exercise 5.1](week_7/5_1.ipynb)
   - [Exercise 5.3def](week_7/5_3def.ipynb)
   - [Exercise 5.6](week_7/5_6.md)
+- Week 8: Conditional probability and multivariate transformations
+  - [Exercise 7.11c](week_8/7_11c.ipynb)
+  - [Exercise 8.3ab](week_8/8_3ab.md) [c](week_8/8_3c.ipynb)
+  - [Exercise 8.4](week_8/8_4.ipynb)

@@ -32,3 +32,6 @@ in Ljubljana.
   - [Exercise 7.11c](week_8/7_11c.ipynb)
   - [Exercise 8.3ab](week_8/8_3ab.md) [c](week_8/8_3c.ipynb)
   - [Exercise 8.4](week_8/8_4.ipynb)
+- Week 9: Convergence of random variables
+  - [Exercise 11.1](week_9/11_1.ipynb)
+  - [Exercise 11.3](week_9/11_3.ipynb)

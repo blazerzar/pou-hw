@@ -35,3 +35,5 @@ in Ljubljana.
 - Week 9: Convergence of random variables
   - [Exercise 11.1](week_9/11_1.ipynb)
   - [Exercise 11.3](week_9/11_3.ipynb)
+- Week 10: Estimation basics
+  - [Exercise 13.1](week_10/13_1.ipynb)

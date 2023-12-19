@@ -37,3 +37,6 @@ in Ljubljana.
   - [Exercise 11.3](week_9/11_3.ipynb)
 - Week 10: Estimation basics
   - [Exercise 13.1](week_10/13_1.ipynb)
+- Week 11: Bootstrap
+  - [Exercise 14.3](week_11/14_3.ipynb)
+  - [Exercise 14.4](week_11/14_4.ipynb)
